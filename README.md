@@ -8,7 +8,7 @@ Hi, I'm Frederick Borges an IT Engineer Student [@UCM](https://www.ucm.es), by t
 
 - 👨🏽‍💻 I'm currently working on something cool!
 - 📝 [Spanish Resume](https://drive.google.com/file/d/1rwtlSSWIQvvTOtVhWtanM-t2E7-fgwq-/view?usp=sharing)
-- 📝 [English Resume](https://drive.google.com/file/d/1rwtlSSWIQvvTOtVhWtanM-t2E7-fgwq-/view?usp=sharing)
+- 📝 [English Resume](https://drive.google.com/file/d/1K7IW9e-yf69viv9W07p5cd2lEzAaICS_/view?usp=sharing)
 
 ## Technologies & Tools
 
